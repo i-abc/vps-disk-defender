@@ -1,3 +1,5 @@
+中文 | [English](https://github.com/i-abc/vps-disk-defender/raw/main/README_EN.md)
+
 ## 简介
 
 捍卫小鸡硬盘空间

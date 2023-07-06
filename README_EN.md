@@ -1,3 +1,5 @@
+[中文](https://github.com/i-abc/vps-disk-defender/raw/main/README.md) | English
+
 ## Introduction
 
 Defending your VPS Disk Space
