@@ -14,7 +14,7 @@ curl -L https://github.com/i-abc/vps-disk-defender/raw/main/vps-disk-defender.sh
 or
 
 ```bash
-bash <(wget -qO- https://github.com/i-abc/vps-disk-defender/raw/main/vps-disk-defender.sh)`
+bash <(wget -qO- https://github.com/i-abc/vps-disk-defender/raw/main/vps-disk-defender.sh)
 ```
 
 ## Effect display
