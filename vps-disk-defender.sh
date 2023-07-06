@@ -85,7 +85,7 @@ function check_size {
 
 function run_dd {
     local SIZE=$1
-    dd if=/dev/urandom of=/opt/dd count=$SIZE bs=1M status=progress
+    dd if=/dev/urandom of=/opt/defended_space count=$SIZE bs=1M status=progress
 }
 
 function main {
@@ -127,7 +127,7 @@ function main {
         echo_blue "After preoccupying, the remaining hard disk space of this machine: ${NEW_SPACE}MB"
         echo -e "\nIf you want to release the preoccupied hard disk space in the future, please execute the following command:"
     fi
-    echo_red "rm /opt/dd\n"
+    echo_red "rm /opt/defended_space\n"
 }
 
 main
