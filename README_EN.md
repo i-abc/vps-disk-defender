@@ -1,8 +1,8 @@
-[中文](https://github.com/i-abc/vps-disk-defender/raw/main/README.md) | English
+[中文](https://github.com/i-abc/vps-disk-defender/blob/main/README.md) | English
 
 ## Introduction
 
-Defending your VPS Disk Space
+Defending your VPS Disk Space  
 Preoccupying disk space to avoid overselling 
 
 ## How to use

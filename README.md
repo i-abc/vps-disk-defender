@@ -1,8 +1,8 @@
-中文 | [English](https://github.com/i-abc/vps-disk-defender/raw/main/README_EN.md)
+中文 | [English](https://github.com/i-abc/vps-disk-defender/blob/main/README_EN.md)
 
 ## 简介
 
-捍卫小鸡硬盘空间
+捍卫小鸡硬盘空间  
 人为预先占用空闲硬盘，避免商家超售
 
 ## 使用方法
