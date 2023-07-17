@@ -14,10 +14,10 @@ function echo_red {
 clear
 
 function select_language {
-    echo -e "选择你的语言 | Select your language:\n"
+    echo -e "选择您的语言 | Select your language:\n"
     echo -e "1. 中文"
     echo -e "2. English\n"
-    read -p "输入你的选择 | Enter your choice (1-2): " LANG_CHOICE
+    read -p "输入您的选择 | Enter your choice (1-2): " LANG_CHOICE
     echo
     case $LANG_CHOICE in
         1) LANG_CHOICE="CN";;
